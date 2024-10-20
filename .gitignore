@@ -5,14 +5,36 @@
 *
 !*/
 
-# Bash stuff (profile just sources bashrc, since it's the only thing sourced
-# when a shell is a login shell).
+# I hate this syntax
 !hypr/*
+!hypr/*/*
+!hypr/*/*/*
+!hypr/*/*/*/*
+!hypr/*/*/*/*/*
+!hypr/*/*/*/*/*/*
+!hypr/*/*/*/*/*/*/*
 !kitty/*
+!kitty/*/*
+!kitty/*/*/*
+!kitty/*/*/*/*
+!kitty/*/*/*/*/*
+!kitty/*/*/*/*/*/*
+!kitty/*/*/*/*/*/*/*
 !nvim/*
+!nvim/*/*
+!nvim/*/*/*
+!nvim/*/*/*/*
+!nvim/*/*/*/*/*
 !waybar/*
+!waybar/*/*
+!waybar/*/*/*
+!waybar/*/*/*/*
+!waybar/*/*/*/*/*
+!waybar/*/*/*/*/*/*
 !yazi/*
 
+# Bash stuff (profile just sources bashrc, since it's the only thing sourced
+# when a shell is a login shell).
 !.bash*
 .*.swp
 .bash_history
