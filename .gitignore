@@ -6,6 +6,12 @@
 
 # Bash stuff (profile just sources bashrc, since it's the only thing sourced
 # when a shell is a login shell).
+!hypr/
+!kitty/
+!nvim/
+!waybar/
+!yazi/
+
 !.bash*
 .*.swp
 .bash_history
